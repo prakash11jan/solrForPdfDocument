@@ -1,0 +1,9 @@
+com\lennoxpro\document\service\impl\LennoxDocumentSearchServiceImpl.class
+com\lennoxpro\document\service\LennoxDocumentIndexService.class
+com\lennoxpro\document\controllers\AppConfig.class
+com\lennoxpro\document\utils\LennoxDocumentUtill.class
+com\lennoxpro\document\controllers\LennoxDocumentSolrApplication.class
+com\lennoxpro\document\service\impl\LennoxDocumentIndexServiceImpl.class
+com\lennoxpro\document\service\LennoxSolrIndexer.class
+com\lennoxpro\document\service\LennoxDocumentSearchService.class
+com\lennoxpro\document\controllers\LennoxDocumentSolrIndexController.class
